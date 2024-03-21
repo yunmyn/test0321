@@ -18,11 +18,14 @@ p, ul {
     margin-bottom: 20px;
     color: #fff;
 }
+p {
+    margin-bottom: 10px;
+}
 a {
     background-color: #b3b4ff;
     display: block;
     padding: 20px 0;
-    border-radius: 7px;
+    border-radius: 17px;
     color: #fff;
     font-weight: bold;
 }
